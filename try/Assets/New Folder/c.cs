@@ -9,7 +9,8 @@ using System.Text;
 public class c : MonoBehaviour {
     private temperature s;
     public GameObject flame;
-    private Vector3 selfpos, flamepos;
+    public Vector3 selfpos, flamepos;
+    public Transform self;
     private float tmp_center;
     private float[] tmp=new float[10];
     float a = 1f;
@@ -63,7 +64,7 @@ public class c : MonoBehaviour {
             s = flame.GetComponent<temperature>();
             tmp_center = s.centertemperature;
             flamepos = s.posi;
-            selfpos = transform.position;
+            selfpos = self.transform.position;
             Calculate(i);
         }
     }
