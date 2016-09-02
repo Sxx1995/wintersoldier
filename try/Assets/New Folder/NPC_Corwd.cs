@@ -8,7 +8,7 @@ namespace NPC_Crowd
     public class vec {
         public double x;
         public double y;
-        public double s;
+        public string s;
         public double len()
         {
             return (Math.Pow(Math.Pow(x,2)+ Math.Pow(y, 2),0.5));
@@ -38,7 +38,7 @@ namespace NPC_Crowd
             double D = A.physical_par * (1 + Math.Cos(P)) / (4 * B.physical_par * lens);
             angle.x /= lens*D;
             angle.y /= lens*D;
-            angle.s = P;
+            //angle.s = P;
             return (angle);
         }
         static public NPC_Parameter initital(double x,double y,double face_angle)

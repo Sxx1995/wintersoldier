@@ -1,0 +1,149 @@
+Traceback (most recent call last):
+  File "unitysend1.py", line 27, in <module>
+IOError: [Errno 2] No such file or directory: 'data.txt'
+Traceback (most recent call last):
+  File "unitysend1.py", line 27, in <module>
+IOError: [Errno 2] No such file or directory: 'data.txt'
+Traceback (most recent call last):
+  File "unitysend1.py", line 27, in <module>
+IOError: [Errno 22] invalid mode ('r') or filename: 'D:\\Unity\try\test\\dist1\\data.txt'
+Traceback (most recent call last):
+  File "unitysend1.py", line 29, in <module>
+  File "unitysend1.py", line 22, in send
+  File "socket.pyc", line 228, in meth
+socket.error: [Errno 10060] 
+Traceback (most recent call last):
+  File "unitysend1.py", line 29, in <module>
+  File "unitysend1.py", line 22, in send
+  File "socket.pyc", line 228, in meth
+socket.error: [Errno 10061] 
+Traceback (most recent call last):
+  File "unitysend1.py", line 30, in <module>
+  File "unitysend1.py", line 10, in server
+  File "socket.pyc", line 228, in meth
+socket.error: [Errno 10048] 通常每个套接字地址(协议/网络地址/端口)
+Traceback (most recent call last):
+  File "unitysend1.py", line 29, in <module>
+  File "unitysend1.py", line 22, in send
+  File "socket.pyc", line 228, in meth
+socket.error: [Errno 10061] 
+Traceback (most recent call last):
+  File "unitysend1.py", line 30, in <module>
+  File "unitysend1.py", line 10, in server
+  File "socket.pyc", line 228, in meth
+socket.error: [Errno 10048] 通常每个套接字地址(协议/网络地址/端口)
+Traceback (most recent call last):
+  File "unitysend1.py", line 29, in <module>
+  File "unitysend1.py", line 22, in send
+  File "socket.pyc", line 228, in meth
+socket.error: [Errno 10061] 
+Traceback (most recent call last):
+  File "unitysend1.py", line 30, in <module>
+  File "unitysend1.py", line 10, in server
+  File "socket.pyc", line 228, in meth
+socket.error: [Errno 10048] 通常每个套接字地址(协议/网络地址/端口)
+Traceback (most recent call last):
+  File "unitysend1.py", line 29, in <module>
+  File "unitysend1.py", line 22, in send
+  File "socket.pyc", line 228, in meth
+socket.error: [Errno 10061] 
+Traceback (most recent call last):
+  File "unitysend1.py", line 30, in <module>
+  File "unitysend1.py", line 10, in server
+  File "socket.pyc", line 228, in meth
+socket.error: [Errno 10048] 通常每个套接字地址(协议/网络地址/端口)
+Traceback (most recent call last):
+  File "unitysend1.py", line 29, in <module>
+  File "unitysend1.py", line 22, in send
+  File "socket.pyc", line 228, in meth
+socket.error: [Errno 10061] 
+Traceback (most recent call last):
+  File "unitysend1.py", line 29, in <module>
+  File "unitysend1.py", line 22, in send
+  File "socket.pyc", line 228, in meth
+socket.error: [Errno 10061] 
+Traceback (most recent call last):
+  File "unitysend1.py", line 29, in <module>
+  File "unitysend1.py", line 22, in send
+  File "socket.pyc", line 228, in meth
+socket.error: [Errno 10061] 
+Traceback (most recent call last):
+  File "unitysend1.py", line 30, in <module>
+  File "unitysend1.py", line 10, in server
+  File "socket.pyc", line 228, in meth
+socket.error: [Errno 10048] 通常每个套接字地址(协议/网络地址/端口)
+Traceback (most recent call last):
+  File "unitysend1.py", line 29, in <module>
+  File "unitysend1.py", line 22, in send
+  File "socket.pyc", line 228, in meth
+socket.error: [Errno 10061] 
+Traceback (most recent call last):
+  File "unitysend1.py", line 29, in <module>
+  File "unitysend1.py", line 22, in send
+  File "socket.pyc", line 228, in meth
+socket.error: [Errno 10061] 
+Traceback (most recent call last):
+  File "unitysend1.py", line 29, in <module>
+  File "unitysend1.py", line 22, in send
+  File "socket.pyc", line 228, in meth
+socket.error: [Errno 10061] 
+Traceback (most recent call last):
+  File "unitysend1.py", line 30, in <module>
+  File "unitysend1.py", line 10, in server
+  File "socket.pyc", line 228, in meth
+socket.error: [Errno 10048] 通常每个套接字地址(协议/网络地址/端口)
+Traceback (most recent call last):
+  File "unitysend1.py", line 30, in <module>
+  File "unitysend1.py", line 10, in server
+  File "socket.pyc", line 228, in meth
+socket.error: [Errno 10048] 通常每个套接字地址(协议/网络地址/端口)
+Traceback (most recent call last):
+  File "unitysend1.py", line 30, in <module>
+  File "unitysend1.py", line 10, in server
+  File "socket.pyc", line 228, in meth
+socket.error: [Errno 10048] 通常每个套接字地址(协议/网络地址/端口)
+Traceback (most recent call last):
+  File "unitysend1.py", line 30, in <module>
+  File "unitysend1.py", line 10, in server
+  File "socket.pyc", line 228, in meth
+socket.error: [Errno 10048] 通常每个套接字地址(协议/网络地址/端口)
+Traceback (most recent call last):
+  File "unitysend1.py", line 30, in <module>
+  File "unitysend1.py", line 10, in server
+  File "socket.pyc", line 228, in meth
+socket.error: [Errno 10048] 通常每个套接字地址(协议/网络地址/端口)
+Traceback (most recent call last):
+  File "unitysend1.py", line 30, in <module>
+  File "unitysend1.py", line 10, in server
+  File "socket.pyc", line 228, in meth
+socket.error: [Errno 10048] 通常每个套接字地址(协议/网络地址/端口)
+Traceback (most recent call last):
+  File "unitysend1.py", line 30, in <module>
+  File "unitysend1.py", line 10, in server
+  File "socket.pyc", line 228, in meth
+socket.error: [Errno 10048] 通常每个套接字地址(协议/网络地址/端口)
+Traceback (most recent call last):
+  File "unitysend1.py", line 30, in <module>
+  File "unitysend1.py", line 10, in server
+  File "socket.pyc", line 228, in meth
+socket.error: [Errno 10048] 通常每个套接字地址(协议/网络地址/端口)
+Traceback (most recent call last):
+  File "unitysend1.py", line 30, in <module>
+  File "unitysend1.py", line 10, in server
+  File "socket.pyc", line 228, in meth
+socket.error: [Errno 10048] 通常每个套接字地址(协议/网络地址/端口)
+Traceback (most recent call last):
+  File "unitysend1.py", line 30, in <module>
+  File "unitysend1.py", line 10, in server
+  File "socket.pyc", line 228, in meth
+socket.error: [Errno 10048] 通常每个套接字地址(协议/网络地址/端口)
+Traceback (most recent call last):
+  File "unitysend1.py", line 30, in <module>
+  File "unitysend1.py", line 10, in server
+  File "socket.pyc", line 228, in meth
+socket.error: [Errno 10048] 通常每个套接字地址(协议/网络地址/端口)
+Traceback (most recent call last):
+  File "unitysend1.py", line 30, in <module>
+  File "unitysend1.py", line 10, in server
+  File "socket.pyc", line 228, in meth
+socket.error: [Errno 10048] 通常每个套接字地址(协议/网络地址/端口)

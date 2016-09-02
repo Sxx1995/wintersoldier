@@ -5,8 +5,8 @@ public class temperature : MonoBehaviour {
     public float centertemperature;
     public Vector3 posi;
     System.Random R = new System.Random();
-    int max = 60000;
-    int min = 20000;
+    int max = 120000;
+    int min = 60000;
 	// Use this for initialization
 	void Start () {
         centertemperature = R.Next(min, max);
